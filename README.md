@@ -1,6 +1,12 @@
 # AI Data Dashboard — CSV Analyzer
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20App-violet?style=for-the-badge&logo=vercel)](https://ai-powered-csv-cleaner-summarizer.vercel.app)
+[![Backend](https://img.shields.io/badge/Backend-Render-blue?style=for-the-badge&logo=render)](https://ai-powered-csv-cleaner-summarizer.onrender.com)
+[![GitHub](https://img.shields.io/badge/Repo-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Rana-Haseeb/AI-Powered-CSV-Cleaner-Summarizer)
+
 A full-stack web application that lets you upload a CSV dataset and receive an instant, AI-generated markdown analysis powered by **Google Gemini**. Results are persisted to **MongoDB Atlas** and displayed in a clean, modern React dashboard.
+
+🔗 **Live App:** [https://ai-powered-csv-cleaner-summarizer.vercel.app](https://ai-powered-csv-cleaner-summarizer.vercel.app)
 
 ---
 
